@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="io.atomix.copycat:copycat-protocol:1.0.0-rc7" type="repository">
+    <properties maven-id="io.atomix.copycat:copycat-protocol:1.0.0-rc7" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/copycat-protocol-1.0.0-rc7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/catalyst-transport-1.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/catalyst-common-1.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/catalyst-serializer-1.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/catalyst-buffer-1.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
